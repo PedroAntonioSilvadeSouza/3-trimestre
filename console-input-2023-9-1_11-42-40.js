@@ -1,0 +1,1 @@
+document.querySelector('#com_tecla_pom').play()
